@@ -1,0 +1,18 @@
+{
+  "name": "wcat-dev-homeword",
+  "version": "1.0.0",
+  "description": "Wcat 🚀🚀",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bin":{
+    "wcat":"CLI.js"
+  },
+  "dependencies": {
+    "colors": "^1.4.0"
+  }
+}
